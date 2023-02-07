@@ -1,7 +1,5 @@
-
 import React from 'react'
 import TodoInput from '../components/TodoInput'
-import TodoContent from '../components/TodoContent'
 import TodoList from '../components/TodoList'
 
 export default function Todo() {
